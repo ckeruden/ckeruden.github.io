@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ckeruden.github.io/sitemap.html.gz
+Sitemap: https://ckeruden.github.io/app/sitemap.html.gz
+Sitemap: https://ckeruden.github.io/assets/sitemap.html.gz
+Sitemap: https://ckeruden.github.io/css/sitemap.html.gz
+Sitemap: https://ckeruden.github.io/includes/sitemap.html.gz
+Sitemap: https://ckeruden.github.io/item/sitemap.html.gz
+Sitemap: https://ckeruden.github.io/src/sitemap.html.gz
